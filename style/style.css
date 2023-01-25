@@ -21,11 +21,12 @@ nav{
     left: 0;
 }
 .logo{
+    width: 10%;
+    height: 10%;
     position: absolute;
     z-index: 1;
-    width: 10%;
     display: flex;
-    top: 15%;
+    top: 80px;
     left: 80%;
     
     
@@ -40,16 +41,16 @@ h2{
     text-align: center;
     padding: 5px;
 }
-ol{
+ul{
     position: relative;
     display: block;
-    left: 25%;
-    top: 25%;
+    left: 15%;
+    margin-top: 5px;
 }
 h3{
     position: relative;
     display: block;
-    left: 25%;
+    left: 15%;
     top: 25%;
     
 }
@@ -63,10 +64,13 @@ article{
     margin-bottom: 15px;
    
 }
+.contact{
+ margin-top: 5%;
+}
 p{
     position: relative;
     display: block;
-    left: 25%;
-    margin-top: 5%;
+    left: 15%;
+    margin-bottom:25px ;
     
 }
