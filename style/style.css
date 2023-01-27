@@ -52,10 +52,13 @@ ul{
 }
 h3{
     position: relative;
-    display: block;
+    display: inline-block;
     left: 15%;
     top: 25%;
     
+}
+.list{
+    display: inline-block;
 }
 .article{
     width: 75%;
@@ -68,12 +71,13 @@ h3{
    
 }
 .contact{
+display: inline-block;
  margin-top: 5%;
 }
 p{
     position: relative;
     display: block;
-    left: 15%;
+    left: 40%;
     margin-bottom:25px ;
     
 }
